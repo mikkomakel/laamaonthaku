@@ -1,0 +1,1 @@
+Ohjelma suorittaa haun opinnäytetyöstä.
